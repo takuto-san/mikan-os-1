@@ -1,7 +1,0 @@
-差分の比較
-git diff --name-only osbook_day03a osbook_day03b
-
-セットアップ
-OS_DIR=/workspaces/mikanos-devcontainer/mikanos
-cd $OS_DIR
-git checkout osbook_day03b
